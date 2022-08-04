@@ -7,5 +7,5 @@ git commit -m"message"
 git log
 
 git checkout
-
+status
  git
